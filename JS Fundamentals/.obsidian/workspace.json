@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "2191d643d59a9940",
+    "type": "split",
+    "children": [
+      {
+        "id": "4baae65ca8816442",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4d5c99fd593001b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS fundamentals/Closures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Closures"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86d19c3e41676417",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8997c34aff945db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01bee2ae2fb7d1c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6cf91baee4284faf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c26fdbe23f5e70f2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "878148dd91195ac0",
+    "type": "split",
+    "children": [
+      {
+        "id": "766c8ab10691ab79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1024669b0726faff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c427aa295cddd988",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9a903f4228eb0cc6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6b48fe08a89a74a3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "77191304fd61d2d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f4d5c99fd593001b",
+  "lastOpenFiles": [
+    "JS fundamentals/setTimeOut.md",
+    "JS fundamentals/Closures.md",
+    "JS fundamentals/3.Block.md",
+    "Pasted image 20261123125044.png",
+    "JS fundamentals/2.Additional.md",
+    "Pasted image 20261123124342.png",
+    "Pasted image 20261123124329.png",
+    "Pasted image 20261123122212.png",
+    "Pasted image 20261123122113.png",
+    "Pasted image 20261123122049.png",
+    "JS fundamentals/1.Starter.md",
+    "Pasted image 20261123121738.png",
+    "Untitled.md",
+    "Welcome.md",
+    "Untitled 1.md",
+    "Pasted_image_20261119165945.png",
+    "file:C:/Users/yugsu/Downloads/files-876297/JavaSrcipt_Fundamentals.md",
+    "JS fundamentals"
+  ]
+}
