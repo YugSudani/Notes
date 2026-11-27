@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/7.EventLoop.md",
+                "file": "Notes/1.Starter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.EventLoop"
+              "title": "1.Starter"
             }
           }
         ],
@@ -202,6 +202,8 @@
   },
   "active": "6053819eab8be69e",
   "lastOpenFiles": [
+    "Notes/8.map() filter() reduce().md",
+    "Untitled.md",
     "Notes/1.Starter.md",
     "Notes/7.EventLoop.md",
     "Pasted image 20261125120302.png",
