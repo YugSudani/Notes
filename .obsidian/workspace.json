@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node JS/Architecture.md",
+                "file": "Additionals/Topics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Architecture"
+              "title": "Topics"
             }
           }
         ]
@@ -190,6 +190,15 @@
   },
   "active": "1f3e779409fdfab6",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Additionals/Topics.md",
+    "Frontend/Topics.md",
+    "Additionals",
+    "Database/Topics.md",
+    "Frontend",
+    "Node JS/Topics.md",
+    "Database",
+    "Node JS/Architecture.md",
     "diagram-export-27-11-2026-14_21_31.png",
     "JS Fundamentals/Notes/8.map() filter() reduce().md",
     "JS Fundamentals/Notes/2.Additional.md",
@@ -199,7 +208,6 @@
     "JS Fundamentals/Notes/5.Closures.md",
     "JS Fundamentals/Notes/3.Block.md",
     "JS Fundamentals/Notes/4.setTimeOut.md",
-    "Node JS/Architecture.md",
     "diagram-export-26-11-2026-14_16_57.png"
   ]
 }

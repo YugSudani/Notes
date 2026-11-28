@@ -1,0 +1,5 @@
+- **Hooks in depth:** `useEffect` pitfalls, `useMemo`, `useCallback`, `useRef`, custom hooks.
+- **State management:** Context, Redux Toolkit or Zustand, React Query (TanStack) for server state.
+- **Performance:** memoization, lazy loading, code splitting, avoiding re-renders.
+- **Routing and forms:** React Router, React Hook Form, protected routes.
+- **Next.js basics:** SSR vs SSG vs CSR, App Router. It is in demand.

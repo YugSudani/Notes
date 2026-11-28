@@ -1,0 +1,7 @@
+- **Authentication and authorization:** JWT, refresh tokens, cookies (httpOnly), bcrypt, role-based access, OAuth basics.
+- **Security:** CORS, helmet, rate limiting, input validation (Zod/Joi), XSS, CSRF, NoSQL injection.
+- **Express depth:** middleware flow, error-handling middleware, async error handling, MVC or layered structure.
+- **REST API design:** status codes, pagination, filtering, versioning, idempotency.
+- **File uploads:** multer, Cloudinary or S3, streams and buffers.
+- **Real-time:** Socket.io or WebSockets basics.
+- **Background jobs and caching:** Redis, BullMQ, cron jobs, email sending.
