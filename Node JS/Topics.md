@@ -5,3 +5,4 @@
 - **File uploads:** multer, Cloudinary or S3, streams and buffers.
 - **Real-time:** Socket.io or WebSockets basics.
 - **Background jobs and caching:** Redis, BullMQ, cron jobs, email sending.
+- concurrency :Race conditions in Node, **Locking in MongoDB**, Distributed locks, Node concurrency vs parallelism

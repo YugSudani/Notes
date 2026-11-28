@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Additionals/Topics.md",
+                "file": "Node JS/Topics.md",
                 "mode": "source",
                 "source": false
               },
@@ -190,15 +190,15 @@
   },
   "active": "1f3e779409fdfab6",
   "lastOpenFiles": [
-    "Untitled.md",
     "Additionals/Topics.md",
+    "Database/Topics.md",
+    "Node JS/Topics.md",
+    "Node JS/Architecture.md",
+    "Untitled.md",
     "Frontend/Topics.md",
     "Additionals",
-    "Database/Topics.md",
     "Frontend",
-    "Node JS/Topics.md",
     "Database",
-    "Node JS/Architecture.md",
     "diagram-export-27-11-2026-14_21_31.png",
     "JS Fundamentals/Notes/8.map() filter() reduce().md",
     "JS Fundamentals/Notes/2.Additional.md",
